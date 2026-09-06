@@ -11,7 +11,7 @@ More detailed PDF instructions are also provided, which include links to the rel
 
 ### Usage
 
-The SQL statements are designed to be used with an SQLite database management system, such as DB Browser for SQLite https://sqlitebrowser.org or the browser based SQLite Online https://sqliteonline.com
+The SQL statements are designed to be used with an SQLite database management system, such as DB Browser for SQLite https://sqlitebrowser.org or a browser based tool such as SQLite Online https://sqliteonline.com or DBConvert SQLite Viewer https://streams.dbconvert.com/sqlite-viewer, which opens the .db file in the browser without uploading it to a server
 
 
 All of the resources in this topic have been developed to be used alongside the learning materials in Ada Computer Science by the Raspberry Pi Foundation. Usage licensed under CC BY-NC-SA 4.0 - https://creativecommons.org/licenses/by-nc-sa/4.0/
